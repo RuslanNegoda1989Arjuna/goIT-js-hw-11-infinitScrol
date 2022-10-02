@@ -20,8 +20,6 @@ Notiflix.Notify.init({
 
 const refs = {
   searchForm: document.querySelector('.search-form'),
-  // input: document.querySelector('[name="searchQuery"]'),
-  // submit: document.querySelector('[type="submit"]'),
   gallery: document.querySelector('.gallery'),
   loadMore: document.querySelector('.load-more'),
 };

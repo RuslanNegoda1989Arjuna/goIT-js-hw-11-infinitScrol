@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://RuslanNegoda1989Arjuna.github.io/goit-js-hw-11",
+  "homepage": "https://RuslanNegoda1989Arjuna.github.io/goIT-js-hw-11-infinitScrol",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /goIT-js-hw-11-infinitScrol/"
   },
   "repository": {
     "type": "git",
